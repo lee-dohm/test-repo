@@ -17,4 +17,4 @@ Right column
 ## Table Version
 
 | Left column | Middle column | Right column |
-|-------------|---------------|--------------|
+|:-----------:|:-------------:|:------------:|
