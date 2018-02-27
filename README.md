@@ -1,6 +1,8 @@
 # test-repo
 Just a repository for testing things
 
+## Footer Version
+
 <footer>
 <p style="float:left; width: 20%;">
 Left column
@@ -11,3 +13,8 @@ Middle column</p>
 Right column
 </p>
 </footer>
+
+## Table Version
+
+| Left column | Middle column | Right column |
+|-------------|---------------|--------------|
