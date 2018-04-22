@@ -1,3 +1,3 @@
 # File to test merge conflicts
 
-Original text
+Replaced locally with completely new text.
