@@ -3,3 +3,5 @@ This test is to create a file where the changes don't create a merge conflict.
 All remote changes will go before this block and all local changes will go after this block so that Git's
 merge resolution can see how to merge things without conflict.
 =====
+Add two lines at home
+2
