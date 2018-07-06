@@ -1,6 +1,10 @@
 # test-repo
 Just a repository for testing things
 
+## Link to section
+
+[link](other-directory/README.md#section)
+
 ## Footer Version
 
 <footer>
