@@ -21,6 +21,13 @@ Right column
 ## Image
 
 <img align="right" src="http://placekitten.com/g/200/300" width=96>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## Table Version
 
