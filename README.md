@@ -20,7 +20,7 @@ Right column
 
 ## Image
 
-<img align="right" src="https://bibi.com/bibi.jpg" width=96>
+<img align="right" src="http://placekitten.com/g/200/300" width=96>
 
 ## Table Version
 
