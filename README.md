@@ -20,7 +20,14 @@ Right column
 
 ## Image
 
+HTML `img` tag:
+
 <img align="right" src="http://placekitten.com/g/200/300" width=96>
+
+Markdown image:
+
+![kitties!](http://placekitten.com/g/200/300)
+
 <br/>
 <br/>
 <br/>
