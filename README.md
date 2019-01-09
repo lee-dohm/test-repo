@@ -18,6 +18,10 @@ Right column
 </p>
 </footer>
 
+## Image
+
+<img align="right" src="https://bibi.com/bibi.jpg" width=96>
+
 ## Table Version
 
 | Left column | Middle column | Right column |
