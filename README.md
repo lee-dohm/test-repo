@@ -26,7 +26,7 @@ HTML `img` tag:
 
 Markdown image:
 
-![kitties!](http://placekitten.com/g/200/300)
+![kitties!](http://placekitten.com/g/200/300){: align="right" width="96"}
 
 <br/>
 <br/>
