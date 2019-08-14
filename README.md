@@ -5,6 +5,10 @@ Just a repository for testing things
 
 [link](other-directory/README.md#section)
 
+### HTML Link
+
+<a href="https://github.com/lee-dohm/test-repo/blob/master/other-directory/README.md#section" target="_blank">comment</a>
+
 ## Footer Version
 
 <footer>
