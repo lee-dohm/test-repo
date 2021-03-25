@@ -1,12 +1,10 @@
-on: pull_request
-name: Create an issue on all pull request events
+on:
+  pull_request:
+name: Test GITHUB_SHA and GITHUB_REF values
 jobs:
-  createAnIssue:
-    name: Create an issue
+  logSomeStuff:
+    name: Log some stuff
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
-    - name: Create an issue
-      uses: JasonEtco/create-an-issue@master
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - run: echo "GITHUB_SHA: $GITHUB_SHA"
+    - run: echo "GITHUB_REF: $GITHUB_REF"
