@@ -1,9 +1,10 @@
 on:
   pull_request:
+
 name: Test GITHUB_SHA and GITHUB_REF values
+
 jobs:
   logSomeStuff:
-    name: Log some stuff
     runs-on: ubuntu-latest
     steps:
       - run: echo "GITHUB_SHA: $GITHUB_SHA"
