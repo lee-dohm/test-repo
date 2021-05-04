@@ -9,3 +9,4 @@ jobs:
     steps:
       - run: echo "GITHUB_SHA - $GITHUB_SHA"
       - run: echo "GITHUB_REF - $GITHUB_REF"
+      - run: echo "GITHUB_ACTION_PATH - $GITHUB_ACTION_PATH"
